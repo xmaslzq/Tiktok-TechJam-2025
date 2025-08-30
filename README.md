@@ -81,5 +81,5 @@ Afterwards, we also applied **clustering per company** to classify and remove an
 
 ---
 ## Contribution
-Yu Yue - Statisics part
-Li Zhi Qi - AI part
+- Yu Yue (Statisics part)
+- Li Zhi Qi (AI part)
