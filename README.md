@@ -78,3 +78,8 @@ Afterwards, we also applied **clustering per company** to classify and remove an
 ### 3. Setup OpenAPI Secret Key
   - named it OPENAI_API_KEY
 ## Then Run
+
+---
+## Contribution
+Yu Yue - Statisics part
+Li Zhi Qi - AI part
