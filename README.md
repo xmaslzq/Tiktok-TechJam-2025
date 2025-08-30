@@ -1,4 +1,4 @@
-# Tiktok-TechJam-2025
+# Tiktok-TechJam-2025 (Team 1+1=3)
 
 ## 📌 Problem Statement
 Location-based review platforms such as Google Maps often face the challenge of **low-quality, irrelevant, or misleading reviews**.  
